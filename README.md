@@ -48,9 +48,6 @@ library-management-system/
 │   │   │           │   ├── PatronService.java
 │   │   │           │   └── LendingService.java
 │   │   │           └── Main.java
-│   │   └── resources/
-│   │       └── logback.xml
-├── pom.xml
 └── README.md
 ```
 
@@ -64,8 +61,6 @@ library-management-system/
 
 ---
 
-## How to Run
-
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git@github.com:dante0077/libraryManagementSystem.git
